@@ -55,6 +55,7 @@ Este proyecto realiza un **análisis exploratorio** de un dataset de canciones d
 1. Clonar el repositorio:
 ```bash
 git clone https://github.com/andresmatesanz/analizador-spotify-json.git
+```
 
 2. Crear y activar un entorno virtual (opcional pero recomendado):
 conda create -n mienv3 python=3.13
