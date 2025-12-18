@@ -58,14 +58,19 @@ git clone https://github.com/andresmatesanz/analizador-spotify-json.git
 ```
 
 2. Crear y activar un entorno virtual (opcional pero recomendado):
+```bash
 conda create -n mienv3 python=3.13
 conda activate mienv3
+```
 
 3. Instalar dependencias:
+```bash
 pip install pandas matplotlib jupyter
-
+```
 4. Abrir el notebook y ejecutar celda por celda:
+```bash
 jupyter notebook notebooks/01_exploracion_spotify.ipynb
+```
 
 Contacto
 Autor: Andrés Matesanz
