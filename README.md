@@ -72,6 +72,8 @@ pip install pandas matplotlib jupyter
 jupyter notebook notebooks/01_exploracion_spotify.ipynb
 ```
 
-## Contacto
-- Autor: Andrés Matesanz
-- GitHub: https://github.com/andresmatesanz
+---
+
+## Autor
+**Autor:** Andrés Matesanz
+[LinkedIn](https://www.linkedin.com/in/andresmatesanz/) | [GitHub](https://github.com/andresmatesanz)
