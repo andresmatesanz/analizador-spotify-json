@@ -75,5 +75,5 @@ jupyter notebook notebooks/01_exploracion_spotify.ipynb
 ---
 
 ## 👤 Autor
-**Autor:** Andrés Matesanz
+**Autor:** Andrés Matesanz  
 [LinkedIn](https://www.linkedin.com/in/andresmatesanz/) | [GitHub](https://github.com/andresmatesanz)
