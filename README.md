@@ -8,7 +8,7 @@ Este proyecto realiza un **análisis exploratorio** de un dataset de canciones d
 
 - `notebooks/01_exploracion_spotify.ipynb`: Notebook principal donde se carga, explora y analiza el dataset de Spotify.
 - `data/raw/`: Contiene los datos originales (CSV descargado de Kaggle).
-- `data/processed/`: Carpeta destinada a guardar datos limpios o transformados (por ahora vacía).
+- `data/processed/`: Carpeta destinada a guardar datos limpios o transformados.
 - `src/`: Carpeta para scripts auxiliares si se requieren en el futuro.
 
 ---
