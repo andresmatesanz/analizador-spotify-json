@@ -15,7 +15,12 @@ Este proyecto realiza un **análisis exploratorio** de un dataset de canciones d
 
 ## 📦 Dataset
 
-- Fuente: Kaggle (en formato CSV).  
+El dataset utilizado en este proyecto contiene canciones que han sido **Top Hits en Spotify entre los años 2000 y 2019**, junto con distintas métricas musicales como danceability, energy, valence, duración y popularidad.
+
+Los datos provienen de Kaggle (en formato CSV), a partir del siguiente notebook:
+
+https://www.kaggle.com/code/varunsaikanuri/spotify-data-visualization/notebook
+
 - Columnas principales:  
   - `artist`: Nombre del artista  
   - `song`: Nombre de la canción  
@@ -25,6 +30,8 @@ Este proyecto realiza un **análisis exploratorio** de un dataset de canciones d
   - `popularity`: Popularidad de la canción  
   - `danceability`, `energy`, `valence`, `tempo`: Métricas de audio  
   - `genre`: Género de la canción
+
+Este dataset se utiliza exclusivamente con fines educativos y de análisis exploratorio.
 
 ---
 
